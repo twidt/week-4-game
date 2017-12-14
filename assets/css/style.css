@@ -1,0 +1,53 @@
+body {
+ /* padding: 0;
+  margin: 0;*/
+  font-family:'Georgia', Times, Times New Roman, serif;
+  background-image: url("https://i.imgur.com/3bL884h.png");
+  background-size: cover;
+}
+
+#gamecontainer {   
+	width: 100%;   
+	max-width: 1080px;   
+	margin: 0 auto;   
+	clear: both; 
+	 }
+
+.gamebutton {
+	width: 120px;
+	height: 120px;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+.main-game {   
+	float: right;      
+	max-width: 600px;   
+	padding: 30px;      
+	border: 2px solid #ddd;
+	margin-top: 20px;
+	
+	/*position:absolute, right:0, top:0*/ 
+}
+
+/*.rules {   
+	float: left;      
+	max-width: 300px; 
+	padding: 30px;      
+	border: 2px solid #ddd;
+	margin-top: 20px;
+	margin-right: 100px;
+	font-color: white; */
+}
+
+
+
+
+
+/*.card {   
+	float: left;     
+	max-width: 800px;   
+	padding: 30px;      
+	border: 2px solid #ddd;
+	margin-top: 20px; 
+}*/
